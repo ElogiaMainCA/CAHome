@@ -28,3 +28,29 @@ Otras herramientas de monitoreo y análisis de rendimiento
 Este repositorio está abierto a mejoras y sugerencias. Si encuentras una oportunidad de optimización o quieres colaborar, abre un issue o envía un pull request.
 
 ## 📩 Contacto: Para dudas o sugerencias, puedes comunicarte con el equipo de SEO y desarrollo técnico de Elogia México.
+
+
+--------------------
+
+## Métricas 20/02/2025
+
+### Page Performance
+
+<img width="1490" alt="Captura de pantalla 2025-02-20 a la(s) 22 30 22" src="https://github.com/user-attachments/assets/db9fe587-cd17-4e1e-830a-f246d17ffb25" />
+
+
+### Usage Metrics
+
+
+ <img width="1494" alt="Captura de pantalla 2025-02-20 a la(s) 22 30 32" src="https://github.com/user-attachments/assets/6fa4c11c-8385-4ef9-98da-7fa6341416b3" />
+
+ ### Waterfall
+
+ 
+
+<img width="1147" alt="Captura de pantalla 2025-02-20 a la(s) 22 30 59" src="https://github.com/user-attachments/assets/54bc8235-0e33-4270-aa91-f42ef084b93c" />
+
+
+
+
+
