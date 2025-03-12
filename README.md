@@ -54,3 +54,10 @@ Este repositorio está abierto a mejoras y sugerencias. Si encuentras una oportu
 
 
 
+## Documentación Importante (Revisar por parte de C&A)
+
+## Presentación
+https://docs.google.com/spreadsheets/d/1SZuqlOFssZLTKxKfBgQZeiJjdNRXOHz9/edit?usp=sharing&ouid=109741452471906796580&rtpof=true&sd=true
+
+## Documentación Presentación
+https://docs.google.com/spreadsheets/d/1SZuqlOFssZLTKxKfBgQZeiJjdNRXOHz9/edit?usp=sharing&ouid=109741452471906796580&rtpof=true&sd=true
